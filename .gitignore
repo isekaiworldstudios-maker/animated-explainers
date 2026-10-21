@@ -1,0 +1,9 @@
+.vscode/
+**/node_modules/
+**/build/
+**/dist/
+**/out/
+**/.env
+**/.env.*
+!**/.env.example
+**/.DS_Store
